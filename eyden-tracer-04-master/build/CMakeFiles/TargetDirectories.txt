@@ -1,0 +1,3 @@
+/home/farzan/Year 2/Semester 1/computer graphics/eyden4/eyden-tracer-04-master/build/CMakeFiles/rebuild_cache.dir
+/home/farzan/Year 2/Semester 1/computer graphics/eyden4/eyden-tracer-04-master/build/CMakeFiles/eyden-tracer.dir
+/home/farzan/Year 2/Semester 1/computer graphics/eyden4/eyden-tracer-04-master/build/CMakeFiles/edit_cache.dir
